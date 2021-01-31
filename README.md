@@ -2,8 +2,8 @@
 
 <h2><b>### Projects ###</b></h2>
 <h3><b>HTML</b></h3>
-<img src="/assets/omrajsharma-portfolio-html.png" width=40%>
-<img src="/assets/practice-portfolio-html.png" width=40%>
+<img src="/assets/omrajsharma-portfolio-html.png" width=40% style="display:inline">
+<img src="/assets/practice-portfolio-html.png" width=40% style="display:inline">
 
 <h2><b>### Resources ###</b></h2>
 <h3><b>Websites</b></h3>
