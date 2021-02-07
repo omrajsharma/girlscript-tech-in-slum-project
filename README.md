@@ -3,10 +3,8 @@
 <h2><b>### Projects ###</b></h2>
 <h3><b>HTML</b></h3>
 <p float="left">
-    <h5 align="center">Sample Template</h5>
-        <p align="center"><img src="/assets/omrajsharma-portfolio-html.png" width=40% height=40% ></p>
-    <h5 align="center">Practical Template</h5>
-        <p align="center"><img src="/assets/practice-portfolio-html.png" width=40% height=40% ></p>
+    <img src="/assets/practice-portfolio-html.png" width="100">
+    <img src="/assets/omrajsharma-portfolio-html.png" width="100">
 </p>
 
 
