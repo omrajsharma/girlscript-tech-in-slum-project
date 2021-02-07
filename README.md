@@ -17,24 +17,29 @@
     </p>
 <p>Students Project</p>
     <p float="left">
-        <img src="/assets/html-projects/1.jpg" width=10%>
-        <img src="/assets/html-projects/2.jpg" width=10%>
-        <img src="/assets/html-projects/3.jpg" width=10%>
-        <img src="/assets/html-projects/4.jpg" width=10%>
-        <img src="/assets/html-projects/5.jpg" width=10%>
-        <img src="/assets/html-projects/6.jpg" width=10%>
-        <img src="/assets/html-projects/7.jpg" width=10%>
-        <img src="/assets/html-projects/8.jpg" width=10%>
-        <img src="/assets/html-projects/9.jpg" width=10%>
-        <img src="/assets/html-projects/10.jpg" width=10%>
-        <img src="/assets/html-projects/11.jpg" width=10%>
-        <img src="/assets/html-projects/12.jpg" width=10%>
-        <img src="/assets/html-projects/13.jpg" width=10%>
-        <img src="/assets/html-projects/14.jpg" width=10%>
-        <img src="/assets/html-projects/15.jpg" width=10%>
-        <img src="/assets/html-projects/16.jpg" width=10%>
-        <img src="/assets/html-projects/17.jpg" width=10%>
-        <img src="/assets/html-projects/18.jpg" width=10%>
+        <img src="/assets/html-projects/1.jpg" width=22%>
+        <img src="/assets/html-projects/2.jpg" width=22%>
+        <img src="/assets/html-projects/3.jpg" width=22%>
+        <img src="/assets/html-projects/4.jpg" width=22%>
+        <img src="/assets/html-projects/5.jpg" width=22%>
+        <img src="/assets/html-projects/6.jpg" width=22%>
+        <img src="/assets/html-projects/7.jpg" width=22%>
+        <img src="/assets/html-projects/8.jpg" width=22%>
+        <img src="/assets/html-projects/9.jpg" width=22%>
+        <img src="/assets/html-projects/10.jpg" width=22%>
+        <img src="/assets/html-projects/11.jpg" width=22%>
+        <img src="/assets/html-projects/12.jpg" width=22%>
+        <img src="/assets/html-projects/13.jpg" width=22%>
+        <img src="/assets/html-projects/14.jpg" width=22%>
+        <img src="/assets/html-projects/15.jpg" width=22%>
+        <img src="/assets/html-projects/16.jpg" width=22%>
+        <img src="/assets/html-projects/17.jpg" width=22%>
+        <img src="/assets/html-projects/18.jpg" width=22%>
+        <img src="/assets/html-projects/19.jpg" width=22%>
+        <img src="/assets/html-projects/20.jpg" width=22%>
+        <img src="/assets/html-projects/21.jpg" width=22%>
+        <img src="/assets/html-projects/22.jpg" width=22%>
+        <img src="/assets/html-projects/23.jpg" width=22%>
     </p>
 
 
@@ -42,18 +47,18 @@
 <h3><b>CSS</b></h3>
 <p>Students project</p>
     <p float="left">
-        <img src="/assets/css-project/1.jpg" width=10%>
-        <img src="/assets/css-project/2.jpg" width=10%>
-        <img src="/assets/css-project/3.jpg" width=10%>
-        <img src="/assets/css-project/4.jpg" width=10%>
-        <img src="/assets/css-project/5.jpg" width=10%>
-        <img src="/assets/css-project/6.jpg" width=10%>
-        <img src="/assets/css-project/7.jpg" width=10%>
-        <img src="/assets/css-project/8.jpg" width=10%>
-        <img src="/assets/css-project/9.jpg" width=10%>
-        <img src="/assets/css-project/10.jpg" width=10%>
-        <img src="/assets/css-project/11.jpg" width=10%>
-        <img src="/assets/css-project/12.jpg" width=10%>
+        <img src="/assets/css-project/1.jpg" width=22%>
+        <img src="/assets/css-project/2.jpg" width=22%>
+        <img src="/assets/css-project/3.jpg" width=22%>
+        <img src="/assets/css-project/4.jpg" width=22%>
+        <img src="/assets/css-project/5.jpg" width=22%>
+        <img src="/assets/css-project/6.jpg" width=22%>
+        <img src="/assets/css-project/7.jpg" width=22%>
+        <img src="/assets/css-project/8.jpg" width=22%>
+        <img src="/assets/css-project/9.jpg" width=22%>
+        <img src="/assets/css-project/10.jpg" width=22%>
+        <img src="/assets/css-project/11.jpg" width=22%>
+        <img src="/assets/css-project/12.jpg" width=22%>
     </p>
 
 
