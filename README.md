@@ -3,11 +3,27 @@
 <h2><b>### Projects ###</b></h2>
 <h3><b>HTML</b></h3>
 <p>Practicals</p>
-<p float="left">
-    <img src="/assets/omrajsharma-portfolio-html.png" width=40%>
-    <img src="/assets/practice-portfolio-html.png" width=40%>
-</p>
-
+    <p float="left">
+        <img src="/assets/omrajsharma-portfolio-html.png" width=40%>
+        <img src="/assets/practice-portfolio-html.png" width=40%>
+    </p>
+<p>Student Projects</p>
+    <p float="left">
+        <img src="/assets/html-projects/1.jpg" width=10%>
+        <img src="/assets/html-projects/2.jpg" width=10%>
+        <img src="/assets/html-projects/3.jpg" width=10%>
+        <img src="/assets/html-projects/4.jpg" width=10%>
+        <img src="/assets/html-projects/5.jpg" width=10%>
+        <img src="/assets/html-projects/6.jpg" width=10%>
+        <img src="/assets/html-projects/7.jpg" width=10%>
+        <img src="/assets/html-projects/8.jpg" width=10%>
+        <img src="/assets/html-projects/9.jpg" width=10%>
+        <img src="/assets/html-projects/10.jpg" width=10%>
+        <img src="/assets/html-projects/11.jpg" width=10%>
+        <img src="/assets/html-projects/12.jpg" width=10%>
+        <img src="/assets/html-projects/13.jpg" width=10%>
+        <img src="/assets/html-projects/14.jpg" width=10%>
+    </p>
 
 
 
