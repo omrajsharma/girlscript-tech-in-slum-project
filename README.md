@@ -4,8 +4,8 @@
 <h3><b>HTML</b></h3>
 <p>Practicals</p>
 <p float="left">
-    <img src="/assets/practice-portfolio-html.png" width=50%>
-    <img src="/assets/omrajsharma-portfolio-html.png" width=50%>
+    <img src="/assets/omrajsharma-portfolio-html.png" width=40%>
+    <img src="/assets/practice-portfolio-html.png" width=40%>
 </p>
 
 
