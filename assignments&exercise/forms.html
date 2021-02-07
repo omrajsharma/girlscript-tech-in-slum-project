@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tables and Forms</title>
+</head>
+
+<body>
+    <center>
+        <table border="1" cellspacing='3' cellpadding='5'>
+            <thead>
+                <th>Roll no</th>
+                <th>Name</th>
+                <th>Aggerate no</th>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>alpha</td>
+                    <td>95</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>beta</td>
+                    <td>94</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>gamma</td>
+                    <td>91</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>delta</td>
+                    <td>90</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <!-- <td></td>
+                    <td></td> -->
+                    <td colspan="3">Alpha is the topper</td>
+                </tr>
+            </tfoot>
+        </table>
+    </center>
+    <hr>
+    <!-- <center> -->
+        <form action="mailto:ridatwork@gmail.com" enctype="text/plain" method="POST">
+            <label for="name">Full Name</label>
+            <input type="text" name="name" required><br>
+
+            <label for="age">Age</label>
+            <input type="number" name="age"><br>
+
+            <label for="email">E-mail</label>
+            <input type="email" name="email" required><br>
+
+            <label for="password">Password</label>
+            <input type="password" name="password" required><br>
+
+            <label for="gender" required>Gender</label>
+            <input type="radio" name="gender">Male
+            <input type="radio" name="gender">Female <br>
+
+            <label for="dob">DOB</label>
+            <input type="date" name="dob"><br>
+
+            <label for="options">Select</label>
+            <select>
+                <option value="begineer">begineer</option>
+                <option value="intermediate">intermediate</option>
+                <option value="pro">pro</option>
+            </select><br>
+
+            <label for="details">Send me details</label>
+            <input type="checkbox" name="details"><br>
+
+            <button type="submit">Submit</button>
+        </form>
+
+        <form>
+            <h5>Password</h5>
+            <input type="password" placeholder="Full Name" >
+        </form>
+    <!-- </center> -->
+
+</body>
+
+</html>
