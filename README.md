@@ -1,4 +1,4 @@
-<h1 align="center">GirlScript "Tech In Slum" Mentorship</h1>
+<h1 align="center">GirlScript "Tech In Slum" Project</h1>
 <p align="center">
     <img src="/assets/GirlScript-logo.png" width=50%>
 </p>
