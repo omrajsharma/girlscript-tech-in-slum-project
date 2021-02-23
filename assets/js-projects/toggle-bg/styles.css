@@ -1,0 +1,16 @@
+.black-body {
+  background-color: black;
+}
+
+.white-text {
+  color: white;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+}
+
+.center-align {
+  margin: 40vh auto;
+}
