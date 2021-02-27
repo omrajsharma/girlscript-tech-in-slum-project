@@ -1,0 +1,83 @@
+#intro-text {
+    padding: 5%;
+    font-family: 'Roboto', sans-serif;
+    /* min-width: ; */
+  }
+body {
+  /* background-color: aqua   ; */
+  margin: 0;
+  padding: 0;
+  font-family: 'Ubuntu Mono', monospace;
+  /* box-sizing: border-box; */
+}
+.center {
+  text-align: center;
+}
+
+#navbar{
+  font-size: 1.5rem;
+  margin-left: 50%;
+}
+.horizontal-list {
+  
+}
+.horizontal-list li {
+  display: inline;
+  /* margin: 10px 10px 5px 200px; */
+  margin-right: 20px;
+  /* float:right; */
+}
+.horizontal-list li a {
+  /* display: inline; */
+  color: black;
+  text-decoration: none;
+}
+
+.horizontal-list li a:hover{
+    border-bottom: 1px solid black;
+    color: aquamarine;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap
+}
+#name,
+#photo {
+  /* display: inline-block; */
+}
+#photo img {;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+#photo img:hover{
+    box-shadow: 5px 10px 18px grey;
+}
+
+
+#name {
+  font-size: 2rem;
+}
+
+#about{
+    margin: 50px;
+    font-size: 23px;
+}
+.highlight{
+    color:yellow;
+    font-weight: 600;
+}
+
+.exp-box{
+    max-width: 500px;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 10px;
+    
+}
+.exp-box:hover{
+    box-shadow: 5px 10px 18px grey;
+}
