@@ -1,0 +1,15 @@
+{
+  "name": "node2",
+  "version": "1.0.0",
+  "description": "this is basic node project 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ridsuter",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
