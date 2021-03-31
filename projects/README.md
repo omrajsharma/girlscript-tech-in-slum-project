@@ -5,6 +5,7 @@
 
 <h3>HTML Projects</h3>
 <p>(Portfolio webpage)</p>
+<p fload="left">
     <img src="html-projects/practice-portfolio-html.png" width=20%>
     <img src="html-projects/2.jpg" width=20%>
     <img src="html-projects/2.jpg" width=20%>
@@ -17,6 +18,7 @@
     <img src="html-projects/8.jpg" width=20%>
     <img src="html-projects/9.jpg" width=20%>
     <img src="html-projects/10.jpg" width=20%>
+</p>
     <br>
     <br>
     <br>
