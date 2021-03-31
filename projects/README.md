@@ -1,7 +1,6 @@
 <h1 align="center"><b>Projects</b></h1>
 
 <h2 align="center"><b>SAKSHAM NGO</b></h2>
-<hr width="200px">
 
 <h3>HTML Projects</h3>
 <p>(Portfolio webpage)</p>
