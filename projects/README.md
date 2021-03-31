@@ -27,6 +27,7 @@
 
 <h3>CSS Projects</h3>
 <p>(Custom Website)</p>
+<p float="left">
     <img src="css-project/1.jpg" width=20%>
     <img src="css-project/2.jpg" width=20%>
     <img src="css-project/4.jpg" width=20%>
@@ -37,6 +38,7 @@
     <img src="css-project/12.jpg" width=20%>
     <img src="css-project/11.jpg" width=20%>
     <img src="css-project/10.jpg" width=20%>
+</p>
     <br>
     <br>
     <br>
